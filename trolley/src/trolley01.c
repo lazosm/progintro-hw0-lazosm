@@ -21,7 +21,7 @@ int main(){
 
         s1 = strtoll(answer, &notlong, 10);
 
-        if (*notlong == '\0' && *notlong != EOF){
+        if (*notlong == '\0' && s1 != EOF){
 
             printf("Please enter the cost of going right:");
             scanf("%17s",answer);
