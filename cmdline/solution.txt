@@ -4,3 +4,4 @@ byte2: grep_is_your_friend
 byte3: players
 byte4: you_just_founf_the_triwizard_cup
 byte5: sdi2400000_1730802605_-1916311424_5_203_157_52_2645_22
+byte6: unzipping_was_never_so_easy
